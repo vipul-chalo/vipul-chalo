@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vipul Chalotra @vipul-chalo
 - 👀 I’m interested in coding, data analyzing, optimizing, and running
-- 🌱 I’m currently learning mathematical engineering
+- 🌱 I’m a mechanical engineering undergraduate and a mathematical engineering graduate
 - 💞️ I’m looking to collaborate on data-oriented and optimization projects
 - 📫 Reach me @vipulchalotra9@gmail.com
 
