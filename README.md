@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vipul Chalotra @vipul-chalo
-- 👀 I’m interested in coding, data analyzing, optimizing, and running
-- 🌱 I’m a mechanical engineering undergraduate and a mathematical engineering graduate
-- 💞️ I’m looking to collaborate on data-oriented and optimization projects
+- 👀 I’m interested in mathematics, coding, data analyzing, optimizing, and running
+- 🌱 I’m actively pursuing PhD in computational mathematics with a focus on machine learning
+- 🛠️ I have a graduate degree in mathematical engineering and an undergraduate degree in mechanical engineering
+- 💞️ I’m looking to collaborate on simulation optimization projects
 - 📫 Reach me @vipulchalotra9@gmail.com
 
 <!---
